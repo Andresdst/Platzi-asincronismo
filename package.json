@@ -4,7 +4,8 @@
   "description": "trabajando con asincronismo",
   "main": "index.js",
   "scripts": {
-    "callback": "node callback/index.js"
+    "callback": "node callback/index.js",
+    "callback:challenge": "node callback/challenge.js"
   },
   "author": "Andresdst",
   "license": "MIT",
