@@ -6,7 +6,8 @@
   "scripts": {
     "callback": "node callback/index.js",
     "callback:challenge": "node callback/challenge.js",
-    "promise": "node promises/index.js"
+    "promise": "node promises/index.js",
+    "promise:challenge": "node promises/challenge.js"
   },
   "author": "Andresdst",
   "license": "MIT",
